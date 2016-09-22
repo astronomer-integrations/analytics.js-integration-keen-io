@@ -1,5 +1,5 @@
 {
-  "name": "@segment/analytics.js-integration-keen-io",
+  "name": "@astronomerio/analytics.js-integration-keen-io",
   "description": "The Keen Io analytics.js integration.",
   "version": "2.1.0",
   "keywords": [
