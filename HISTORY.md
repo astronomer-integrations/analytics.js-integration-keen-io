@@ -1,9 +1,19 @@
+2.1.2 / 2017-01-31
+==================
+
+  * Update Keen.io SDK from v3.1.0 to v3.4.0
+
+2.1.1 / 2016-10-20
+==================
+
+  * Fix bug with setGlobalProperties
+
 2.1.0 / 2016-07-12
 ==================
 
   * Update Karma to 1.1.0
   * Add test to ensure correct Keen
-  * Prevent namespace collisions 
+  * Prevent namespace collisions
   * Update keen-js to v3.1.0 (latest possible without breaking changes)
   * Create a new `KeenSegment` namespace for analytics.js-installed SDK and return existing `Keen` object if overwritten
 
